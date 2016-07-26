@@ -262,7 +262,7 @@ h1.main-title a:focus{
        height: 566px!important;
 	}
 	.demo-2 .main-title {
-		font-size: 4em;
+		font-size: 3em;
 	}
 }
 @media only screen and (max-width :480px) {
@@ -302,7 +302,7 @@ h1.main-title a:focus{
 }
 @media only screen and (max-width :320px) {
 	.demo-2 .main-title {
-		font-size: 4em;
+		font-size: 2em;
 	}
 	
 	canvas#demo-canvas {
